@@ -1,0 +1,8 @@
+let name = null;
+let text = "missing";
+
+let result = name ?? text;
+
+
+//
+console.log()
